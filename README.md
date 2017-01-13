@@ -1,0 +1,2 @@
+# foolishwugui.github.com
+blog
